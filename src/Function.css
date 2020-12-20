@@ -1,0 +1,9 @@
+.function {
+  border-top: 1px solid lightgray;
+  margin: 0 15px;
+  padding-top: 15px;
+}
+.description {
+  margin-bottom: 20px;
+  font-size: smaller;
+}
